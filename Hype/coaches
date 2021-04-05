@@ -1,0 +1,16 @@
+  <html>
+  <head>
+<title>
+home page
+</title>
+</head>  
+<body>
+<img src="l.jpg" width="400", height=400> 
+ <a href ="home.html"> Home</a>
+ <a href ="about.html"> About</a>
+ <a href ="machines.html"> Machines</a>
+ <a href ="coaches.html"> Coaches</a>
+ <a href ="contact.html"> Contact Us</a>
+ 
+</body>
+</html>		 
